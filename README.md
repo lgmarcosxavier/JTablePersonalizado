@@ -6,4 +6,4 @@ posible desde código., asó tambien como modificar el encabezado de la tabla.
 
 <img src="./jtable-personalizado.JPG" alt="jtable personalizado" />
 
-<img src0"./propiedades.JPG" alt="propiedades" />
+<img src="./propiedades.JPG" alt="propiedades" />
